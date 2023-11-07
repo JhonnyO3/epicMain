@@ -1,4 +1,4 @@
-package br.com.fiap.epic.user;
+package br.com.fiap.rapida.user;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

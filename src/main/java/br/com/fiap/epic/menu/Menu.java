@@ -1,4 +1,4 @@
-package br.com.fiap.epic.menu;
+package br.com.fiap.rapida.menu;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

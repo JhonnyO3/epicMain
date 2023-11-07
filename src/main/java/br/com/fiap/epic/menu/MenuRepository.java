@@ -1,4 +1,4 @@
-package br.com.fiap.epic.menu;
+package br.com.fiap.rapida.menu;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

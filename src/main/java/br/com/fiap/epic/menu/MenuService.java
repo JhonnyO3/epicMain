@@ -1,4 +1,4 @@
-package br.com.fiap.epic.menu;
+package br.com.fiap.rapida.menu;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

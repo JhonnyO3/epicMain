@@ -1,4 +1,4 @@
-package br.com.fiap.epic.config;
+package br.com.fiap.rapida.config;
 
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;
